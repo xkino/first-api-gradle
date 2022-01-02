@@ -91,5 +91,7 @@ public class ItemController {
         Timer myTimer = new Timer();
         MyTimerTask myTimerTask = new MyTimerTask(item, this);
         myTimer.schedule(myTimerTask, (60000*2));
+
+        // тест
     }
 }
