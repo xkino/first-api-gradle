@@ -17,7 +17,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.*;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/")
 public class ItemController {
 
     @Autowired
