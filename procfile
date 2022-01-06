@@ -1,0 +1,1 @@
+web: java -jar build/libs/first-api-gradle-1.0-plain.jar
