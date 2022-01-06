@@ -1,1 +1,1 @@
-web: java -jar target/first-api-gradle-1.0.jar
+web: java -jar first-api-gradle-1.0.jar
