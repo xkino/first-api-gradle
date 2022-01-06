@@ -1,0 +1,1 @@
+web: java -jar target/first-api-gradle-1.0.jar
